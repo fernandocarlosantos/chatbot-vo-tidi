@@ -1,4 +1,4 @@
-# chatbot-vo-tidi
+# chatbot-vó-tidi
 Chatbot focado em receitas, porém usando uma linguagem bem acolhedora, que é das nossas avós, este é meu primeiro chatbot, espero que gostem.
 #Foco
 Bucas de receitas mais facilmente.
